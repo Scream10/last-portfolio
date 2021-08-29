@@ -6,20 +6,20 @@ Retrouvez le lien de mon portfolio : [en cliquant ici](https://nicolasdiot.verce
 
 Depuis le racine du project, lancez:
 
-### `yarn start`
+#### `yarn start`
 ou
-### `npm start`
+#### `npm start`
 
 Pour lancer l'app en local sur le port : [http://localhost:3000](http://localhost:3000).
 
 ## Technologies utilisées
 
-Framework : React
-Bibliothèque : Redux
-Framework CSS : Material UI
-Pré-processeur : SCSS
-Outil d'animation : GSAP / Framer Motion
-Bonnes pratiques : Mobile First / Intégration Responsive
-Structure de base : Javascript ES6 / HTML5 / CSS3 
-Base de données : REST API 
-Test JS: Jest
+- Framework : React
+- Bibliothèque : Redux
+- Framework CSS : Material UI
+- Pré-processeur : SCSS
+- Outil d'animation : GSAP / Framer Motion
+- Bonnes pratiques : Mobile First / Intégration Responsive
+- Structure de base : Javascript ES6 / HTML5 / CSS3 
+- Base de données : REST API 
+- Test JS: Jest
