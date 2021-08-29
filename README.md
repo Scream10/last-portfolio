@@ -2,6 +2,11 @@
 
 Retrouvez le lien de mon portfolio : [en cliquant ici](https://nicolasdiot.vercel.app/)
 
+
+## Description
+Portfolio réalisé avec React en respectant les bonnes pratiques du web. Vous retrouverez tous les projets que j'ai réalisé en tant que Développeur Web Freelance.
+
+
 ## Lancer le projet en local
 
 Depuis le racine du project, lancez:
@@ -11,6 +16,7 @@ ou
 #### `npm start`
 
 Pour lancer l'app en local sur le port : [http://localhost:3000](http://localhost:3000).
+
 
 ## Technologies utilisées
 
